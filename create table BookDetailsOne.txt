@@ -1,0 +1,15 @@
+create table BookDetailsOne(BookAuthor char(45),BookName char(50),BookType char(20),BookPages int(4),BookPrice double(6,2),BookID int(4));
+desc BookDetailsOne;
+insert into BookDetailsOne values("Rbond","The blue umbrella","Story",56,23.50,1234);
+insert into BookDetailsOne values(“ABCD”,"Core Java Fundamental","Technical",56,145.90,1878);
+insert into BookDetailsOne values("Rbond","Time stops at shamli","Story",56,18.90,1786);
+insert into BookDetailsOne values("ypk","C Fundamental","Technical",56,555.55,1216);
+insert into BookDetailsOne values("Rbond","Java Fundamental","Technical",56,35.90,2700);
+insert into BookDetailsOne values("Pallhavi Joshi","No time","Fiction",56,109.90,4321);
+insert into BookDetailsOne values("ypk","C++ Fundamental","Technical",56,276.00,1111);
+insert into BookDetailsOne values("Pallhavi Joshi","Out of box","Fiction",56,78.21,3434);
+insert into BookDetailsOne values("ypk","C Fundamental","Non Fiction",56,55.89,1412);
+
+
+
+https://github.com/c11472/250-Testing-GitAllCommands.git
