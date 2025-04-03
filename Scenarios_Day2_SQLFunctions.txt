@@ -1,0 +1,60 @@
+//**************************************************************
+
+Scenario-1 :
+
+To display 5 random numbers.
+
+Scenario-2:
+
+Sort the table BookDetailsOne  wrt BookName in descending order .
+Display all the bookName in Upper case.
+
+
+Scenario-3:
+
+Display any four random numbers with their power of 2.
+
+
+Scenario - 4 [Date] :
+
+a.In the Employee table for all joining date must be added by 4 days.
+
+b.In the Employee table for all joining date must be added by 4 months.
+
+c.In the Employee table all employees' joining date must be subtracted by 4 days.
+
+
+Scenario-5:
+
+Round up the BookPrice till one decimal point in BookDetailsOne Table and then sort the data and display the table
+
+
+Scenario-6:
+Sort the BookDetailsOne table  wrt bookprice for all the rows whose last character of the BookName ends with l.
+
+
+
+
+//***************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
